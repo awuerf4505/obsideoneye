@@ -1,0 +1,185 @@
+/*** sectioning elements ***/
+
+body {
+background-color: #260703;
+color: #fff;
+}
+
+header {
+
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+color: #fff;
+}
+
+h2{
+color: #fff;
+}
+
+h2.normal {
+  text-align: center;
+  color: #fff;
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+  text-align: center;
+}
+
+p.left{
+  text-align: right;
+}
+
+p.right{
+  text-align: left;
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+header img{
+
+}
+
+img  {
+
+}
+
+img.left{
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+img.right{
+  float: left;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+/*** link styles ***/
+
+a:link {
+  color:#fff;
+}
+
+a:visited {
+  color:#fff;
+}
+
+a:hover {
+  color:#ddd;
+}
+
+a:active {
+  color:#ddd;
+}
+
+/*** navbar styling ***/
+.navbar a:link,
+.navbar a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar-menu a:hover,
+.navbar-menu a:active {
+  color: #fff;
+  border-bottom: solid #472925;
+}
+
+.navbar {
+  background-color: #371814;
+  font-family: 'Lato', sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Audiowide', cursive;
+}
+
+.navbar-slideout .navbar-menu,
+.navbar-slideout-xs .navbar-menu,
+.navbar-slideout-sm .navbar-menu,
+.navbar-slideout-md .navbar-menu,
+.navbar-slideout-lg .navbar-menu,
+.navbar-slideout-xl .navbar-menu {
+  background-color: #371814;
+}
+
+.menu-dismiss,
+.menu-toggle {
+  color: #fff;
+}
