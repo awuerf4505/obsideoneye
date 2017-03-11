@@ -183,3 +183,7 @@ a:active {
 .menu-toggle {
   color: #fff;
 }
+
+a {
+border-bottom:solid transparent;
+}
